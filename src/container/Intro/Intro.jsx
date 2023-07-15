@@ -1,11 +1,11 @@
 import React from 'react';
 
-import './Header.css';
+import './Intro.css';
 
-const Header = () => (
+const Intro = () => (
   <div>
-    Header
+    Intro
   </div>
 );
 
-export default Header;
+export default Intro;
